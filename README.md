@@ -26,50 +26,54 @@ Realizei esse projeto a cerca de 5 meses, hoje em dia já adquiri mais conhecime
 Segue as telas do sistema:
 
 A primeira tela do sistema, é a de Login:
-<img src=”src/login.png”>
+
+![Login](https://github.com/gabrielsilvagit/teste-php-puro/blob/master/login.png)
+
 Onde o usuario pode fazer login, ou criar uma conta ->
-![image2](master/criar-conta.png)
+
+![Criar Conta](https://github.com/gabrielsilvagit/teste-php-puro/blob/master/criar-conta.png)
 
 Ao fazer o login, o usuário é redirecionado a home:
-<img src=”home.png”>
+
+![Home](https://github.com/gabrielsilvagit/teste-php-puro/blob/master/home.png)
 
 Utilizando o menu, ele pode adicionar um novo usuario
-![Criar Conta](”https://github.com/gabrielsilvagit/teste-php-puro/blob/master/criar-conta.png”)
+![New User](https://github.com/gabrielsilvagit/teste-php-puro/blob/master/new-user.png)
 
 Pode listar os usuários do sistema:
-<img src=”users.png”>
+![Users](https://github.com/gabrielsilvagit/teste-php-puro/blob/master/users.png)
 
 Pode alterar o usúario:
-<img src=”edit-user-form.png”>
+![Edit User](https://github.com/gabrielsilvagit/teste-php-puro/blob/master/edit-user.png)
 
 E pode deletar o usuário:
-<img src=”delete-user.png”>
+![Delete User](https://github.com/gabrielsilvagit/teste-php-puro/blob/master/delete-user.png)
 
 Para os clientes a mesma coisa, pode adicionar um nuvo cliente:
-<img src=”new-customer.png”>
+![Novo Cliente](https://github.com/gabrielsilvagit/teste-php-puro/blob/master/new-customer.png)
 
 Listar os clientes:
-<img src=”customers.png”>
+![Customers](https://github.com/gabrielsilvagit/teste-php-puro/blob/master/customers.png)
 
 Editar os clientes:
-<img src=”edit-customer.png”>
-<img src=”edit-customer-form.png”>
+![Edit Customer](https://github.com/gabrielsilvagit/teste-php-puro/blob/master/edit-customer.png)
+![Edit Customer Form](https://github.com/gabrielsilvagit/teste-php-puro/blob/master/edit-customer-form.png)
 
 Deletar um cliente:
-<img src=”delete-customer.png”>
+![Delete Customer](https://github.com/gabrielsilvagit/teste-php-puro/blob/master/delete-customer.png)
 
 E para cada usuario, pode adicionar 1 ou varios endereços:
-<img src=”new-address.png”>
+![New Address](https://github.com/gabrielsilvagit/teste-php-puro/blob/master/new-address.png)
 
 E listar esses endereços:
-<img src=”address.png”>
+![Address](https://github.com/gabrielsilvagit/teste-php-puro/blob/master/address.png)
 
 E para cada endereço, ele pode alterar:
-<img src=”edit-address.png”>
-<img src=”edit-address-form.png”>
+![Edit Address](https://github.com/gabrielsilvagit/teste-php-puro/blob/master/edit-address.png)
+![Edit Address Form](https://github.com/gabrielsilvagit/teste-php-puro/blob/master/edit-address-form.png)
 
 E excluir o endereço:
-<img src=”delete-user.png”>
+![Delete](https://github.com/gabrielsilvagit/teste-php-puro/blob/master/delete-address.png)
 
 
 Conclusão do projeto:
