@@ -14,7 +14,7 @@ Os requisitos eram:
 
 Desenvolver preferencialmente em PHP sem utilização de frameworks, MySQL, FE: livre.  
 
-Seguindo os requisistos, utilizei PHP puro(sem utilizar nenhuma framework, bootstrap para frontend e MySQL para o banco
+Seguindo os requisistos, utilizei PHP puro(sem utilizar nenhuma framework), bootstrap para frontend e MySQL para o banco
 
 Não tenho muita experiencia com PHP puro, pois trabalho com PHP utilizando a framework Laravel. O unico contato que tive com php puro foi na faculdade.
 Então, tive que dar uma estudada para relembrar algumas coisas e executar esse projeto. Utilizei exercicios da faculdade como base para o projeto.
