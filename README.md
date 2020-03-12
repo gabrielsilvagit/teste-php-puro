@@ -35,7 +35,7 @@ Onde o usuario pode fazer login, ou criar uma conta ->
 
 Ao fazer o login, o usuário é redirecionado a home:
 
-![Home](https://github.com/gabrielsilvagit/teste-php-puro/blob/master/home.png)
+![Home](https://github.com/gabrielsilvagit/teste-php-puro/blob/master/welcome.png)
 
 Utilizando o menu, ele pode adicionar um novo usuario
 ![New User](https://github.com/gabrielsilvagit/teste-php-puro/blob/master/new-user.png)
