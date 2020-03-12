@@ -56,7 +56,6 @@ Listar os clientes:
 ![Customers](https://github.com/gabrielsilvagit/teste-php-puro/blob/master/customers.png)
 
 Editar os clientes:
-![Edit Customer](https://github.com/gabrielsilvagit/teste-php-puro/blob/master/edit-customer.png)
 ![Edit Customer Form](https://github.com/gabrielsilvagit/teste-php-puro/blob/master/edit-customer-form.png)
 
 Deletar um cliente:
