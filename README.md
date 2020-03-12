@@ -26,7 +26,7 @@ Realizei esse projeto a cerca de 5 meses, hoje em dia já adquiri mais conhecime
 Segue as telas do sistema:
 
 A primeira tela do sistema, é a de Login:
-<img src=”login.png”>
+<img src=”src/login.png”>
 Onde o usuario pode fazer login, ou criar uma conta ->
 <img src=”criar-conta.png”>
 
