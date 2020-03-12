@@ -3,11 +3,13 @@
 Teste para continuidade no processo seletivo.
 
 Os requisitos eram: 
+
 1 - Uma área administrativa onde o(s) usuário(s) devem acessar através de login e senha.
 
 2 - Criar um gerenciador de clientes (Listar, Incluir, Editar e Excluir)
 
    2.1 - O cadastro do Cliente deve conter: Nome; Data Nascimento;CPF; RG; Telefone.
+   
    2.2 - O Cliente pode ter 1 ou N endereços.
 
 Desenvolver preferencialmente em PHP sem utilização de frameworks, MySQL, FE: livre.  
@@ -68,7 +70,6 @@ E listar esses endereços:
 ![Address](https://github.com/gabrielsilvagit/teste-php-puro/blob/master/address.png)
 
 E para cada endereço, ele pode alterar:
-![Edit Address](https://github.com/gabrielsilvagit/teste-php-puro/blob/master/edit-address.png)
 ![Edit Address Form](https://github.com/gabrielsilvagit/teste-php-puro/blob/master/edit-address-form.png)
 
 E excluir o endereço:
