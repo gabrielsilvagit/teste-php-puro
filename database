@@ -1,0 +1,29 @@
+drop database test;
+create database test;
+	use test;
+
+	create table users (
+		id int(20) primary key auto_increment,
+		nome varchar(50) not null,
+		email varchar(50) not null,
+		senha varchar(32) not null);
+
+	create table customers (
+		id int(20) primary key auto_increment,
+		nome varchar(50) not null,
+		dob date not null,
+		cpf varchar(32) not null,
+		rg varchar(32) not null,
+		phone varchar(32) not null);
+
+	create table address (
+		id int(20) primary key auto_increment,
+		customer_id int(20) not null,
+		foreign key(customer_id) references customers(id),
+		city varchar(32) not null,
+		state varchar(32) not null,
+		country varchar(32) not null,
+		cep varchar(32) not null,
+		number varchar(32) not null,
+		street varchar(32) not null
+	);
