@@ -28,13 +28,13 @@ Segue as telas do sistema:
 A primeira tela do sistema, é a de Login:
 <img src=”src/login.png”>
 Onde o usuario pode fazer login, ou criar uma conta ->
-<img src=”criar-conta.png”>
+![image2](master/criar-conta.png)
 
 Ao fazer o login, o usuário é redirecionado a home:
 <img src=”home.png”>
 
 Utilizando o menu, ele pode adicionar um novo usuario
-<img src=”https://github.com/gabrielsilvagit/teste-php-puro/blob/master/criar-conta.png”>
+![Criar Conta](”https://github.com/gabrielsilvagit/teste-php-puro/blob/master/criar-conta.png”)
 
 Pode listar os usuários do sistema:
 <img src=”users.png”>
