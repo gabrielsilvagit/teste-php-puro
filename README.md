@@ -1,4 +1,4 @@
-# teste-php-puro
+# Teste em PHP puro
 
 Teste para continuidade no processo seletivo.
 
@@ -34,7 +34,7 @@ Ao fazer o login, o usuário é redirecionado a home:
 <img src=”home.png”>
 
 Utilizando o menu, ele pode adicionar um novo usuario
-<img src=”novo-usuario.png”>
+<img src=”https://github.com/gabrielsilvagit/teste-php-puro/blob/master/criar-conta.png”>
 
 Pode listar os usuários do sistema:
 <img src=”users.png”>
